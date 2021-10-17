@@ -28,3 +28,8 @@ cd ..
 ```
 ## Make sure all the files are in the hd-wallet-derive folder for this program to work
 ![Derive_files](Screenshots/Derive_Files.JPG)
+
+## The address that will be used to send transaction needs to be from the hd wallet for both BTCTEST and ETH
+![Wallet_address](Screenshots/ETH_BTC_Addresses.JPG)
+
+## To execute the program use the "Exceutable_file.ipynb" in the hd-wallet-derive folder
