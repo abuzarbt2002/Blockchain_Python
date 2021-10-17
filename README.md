@@ -26,3 +26,5 @@ php composer.phar install
 ln -s hd-wallet-derive.php ../derive
 cd ..
 ```
+## Make sure all the files are in the hd-wallet-derive folder for this program to work
+![Derive_files](Screenshots/Derive_Files.JPG)
