@@ -33,3 +33,12 @@ cd ..
 ![Wallet_address](Screenshots/ETH_BTC_Addresses.JPG)
 
 ## To execute the program use the "Exceutable_file.ipynb" in the hd-wallet-derive folder
+![executable_file](Screenshots/Executable_file_snapshot.JPG)
+
+## BTC Transaction confirmation
+Two transactions were sent for testing purposes and one of it is of "0.0005"
+![BTC](Screenshots/Bitcoin_transaction_successful.JPG)
+
+## ETH Transaction confirmation
+Two transactions were sent for testing purposes and one of it is of 10 ETH
+![ETH](Screenshots/Ether_Transaction.JPG)
